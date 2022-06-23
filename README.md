@@ -1,0 +1,2 @@
+# trinotk
+Fixed trino version
